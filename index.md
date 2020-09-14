@@ -1,37 +1,44 @@
-## Welcome to GitHub Pages
+<!DOCTYPE html>
+<html>
+ <head>
+   <meta charset="UTF-8">
+   <meta name="viewpoint" content="width=device-width, initial-scale=1.0">
+   <link rel="stylesheet" type="text/css" href="css/module2.css">
+ </head>
+ <body>
+   <div class="word"><h1>Some Poems By Rumi</h1></div>
+   <div class="range">
+    <div class="container">
+     <div class="box-1">
+      <div class="yes1">Poem One</div>
+        <p class="go">
+         The minute I heard my first love story, I started looking for you, not knowing how blind that was. Lovers don't finally meet somewhere. They're in each other all along.
+        </p>
+      </div>
+      </div>
+    </div>
+  <div class="aqua">  
+   <div class="container">
+     <div class="box-1">
+       <div class="yes2">Poem Two</div>
+        <p class="go">
+         If you are seeking, seek us with joy. For we live, in the kingdom of joy. Do not give your heart to anything else but to the love of those who are clear joy.
+        </p>
+    </div>
+   </div>
+  </div>
+  <div class="marine">
+     <div class="container">
+      <div class="box-1">
+       <div class="yes3">Poem Three</div>
+        <p class="go">
+         Love isn't the work of the tender and the gentle; 
+         love is the work of wrestlers. 
+         The ones who becomes a servant of lovers is really 
+         a fortunate sovereign.
+        </p>
+      </div>
+    </div>
+  </div> 
 
-You can use the [editor on GitHub](https://github.com/RareStar/coursera-test/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/RareStar/coursera-test/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+ </body>
